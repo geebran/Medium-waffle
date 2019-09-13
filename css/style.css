@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+    color: #292929;
+}
+
+img {
+    width: 750px;
+    margin-left: 20%;
+}
+
+p {
+    font-size: 23px;
+}
+
+a {
+    color: #292929;
+}
+
+#article-intro {
+    font-size: 1.8rem;
+    margin-bottom: 0;
+    margin-left: 25%;
+}
+
+#profile {
+    position: relative;
+    left: 4em;
+    bottom: 2.9em;
+}
+
+.leftsidebar {
+    float: left;
+    width: 25%;
+}
+
+.maincontent {
+    margin-right: 25%;
+    margin-left: 25%;
+    font-size: 23px;
+    padding: 10px;
+}
+
+.rightsidebar {
+    float: right;
+    width: 25%;
+}
+
+.social {
+    width: 290px;
+    height: 50px;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: darkolivegreen;
+}
+
+.alias {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: smaller;
+    position: relative;
+    top: -0.6em;
+}
+
+.follow-btn {
+    position: relative;
+    left: 5.5em;
+    bottom: 3.9em;
+}
+
+.date {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: smaller;
+    color: slategrey;
+    position: relative;
+    bottom: 2em;
+    left: -4.8em;
+    display: inline-block;
+}
+
+.header {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.heading {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.8rem;
+}
